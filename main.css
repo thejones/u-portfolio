@@ -1,0 +1,48 @@
+/*Override*/
+.navbar-default {
+  background-color: #fff;
+  border-color: #797272;;
+}
+
+
+/*Start custom*/
+.nav_user {
+  text-align: right;
+}
+
+.nav_full_name {
+  font-weight: 100;
+}
+
+img.logo_primary {
+  padding: 3px;
+}
+
+img.main_image {
+  width: 100%;
+}
+
+img.featured_item_image {
+  height: 100px;
+}
+
+.row.featured_work {
+  margin-top: 60px;
+}
+
+.featured_item {
+  padding-bottom: 30px;
+}
+
+.featured_item_title {
+  font-size: 18px;
+  padding-top: 3px;
+}
+
+.featured_work_title {
+  font-size: 26px;
+}
+
+.featured_link_text {
+  text-align: center;
+}
