@@ -24,6 +24,7 @@ img.main_image {
 
 img.featured_item_image {
   height: 100px;
+  max-width: 200px;
 }
 
 .row.featured_work {
